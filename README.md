@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gayantha Vishwajith</h1>
-<h3 align="center">A passionate Web Developer & Software Engineer From Sri Lanka</h3>
+<h3 align="center">Backend, DevOps & Cloud Enthusiast | Full Stack Developer |  Software Engineer From Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gayanthavishwa123&label=Profile%20views&color=0e75b6&style=flat" alt="gayanthavishwa123" /> </p>
 
