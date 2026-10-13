@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gayantha Vishwajith</h1>
-<h3 align="center">Backend, DevOps & Cloud Enthusiast | Full Stack Developer |  Software Engineer From Sri Lanka</h3>
+<h3 align="center">Software Engineering Undergraduate | DevOps & Cloud Infrastructure  | MLOps & GenAI Infrastructure Enthusiast/h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gayanthavishwa123&label=Profile%20views&color=0e75b6&style=flat" alt="gayanthavishwa123" /> </p>
 
-- 🌱 I’m currently learning **Programming language ,Frame Work, Courses**
+- 🌱 **Currently Learning:** AI Infrastructure, MLOps & Cloud Engineering
+- ☸️ **Kubernetes & DevOps:** Advanced K8s Architecture, Control Plane, CNI, Terraform & Azure
+- 🚀 **AI Systems & Infrastructure:** LLM Serving (vLLM), PyTorch Memory Management & GPU Optimization
+- 📖 **Focus Areas:** Cloud-Native Systems, Infrastructure as Code (IaC) & Scalable MLOps
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
