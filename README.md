@@ -14,9 +14,9 @@
 ### 🚀 About Me
 
 - 🌱 **Currently Learning:** AI Infrastructure, MLOps & Cloud Engineering
-- ☸️ **Kubernetes & DevOps:** Advanced K8s Architecture, Control Plane, CNI, Terraform & Azure
+- ☸️ **Kubernetes & GitOps:** Advanced K8s Architecture, Argo CD, CNI, Terraform & Azure
 - 🤖 **AI Systems & Infrastructure:** LLM Serving (vLLM), PyTorch Memory Management & GPU Optimization
-- 🎯 **Focus Areas:** Cloud-Native Systems, Infrastructure as Code (IaC) & Scalable MLOps
+- 🎯 **Focus Areas:** Cloud-Native Systems, GitOps Workflows, Infrastructure as Code (IaC) & Scalable MLOps
 
 ---
 
@@ -27,7 +27,7 @@
 | **Automation & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
 | **Cloud & Infrastructure** | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | **Containers & Orchestration** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| **CI/CD & Version Control** | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **CI/CD & GitOps** | ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 | **AI / MLOps Infrastructure** | ![vLLM](https://img.shields.io/badge/vLLM-Model_Serving-ff69b4?style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) |
 
 ---
